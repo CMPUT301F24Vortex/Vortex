@@ -2,13 +2,11 @@ package com.example.vortex;
 
 public abstract class Shape {
     // Integer fields to store coordinates
-    private int x;
-    private int y;
+    protected int x;
+    protected int y;
 
     // Constructor to initialize x and y
-    public Shape(int x, int y) {
-        this.x = x;
-        this.y = y;
+    public Shape() {
     }
 
     // Getter and Setter for x
