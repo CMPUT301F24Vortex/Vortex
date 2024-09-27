@@ -4,8 +4,7 @@ public abstract class Shape {
     // Integer fields to store coordinates
     protected int x;
     protected int y;
-
-    String color = "Purple";
+    
 
     // Constructor to initialize x and y
     public Shape() {
