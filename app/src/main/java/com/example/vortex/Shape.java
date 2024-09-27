@@ -7,6 +7,7 @@ public abstract class Shape {
 
     String color = "Purple";
 
+
     // Constructor to initialize x and y
     public Shape() {
     }
