@@ -8,6 +8,7 @@ public abstract class Shape {
 
 
 
+
     // Constructor to initialize x and y
     public Shape() {
     }
