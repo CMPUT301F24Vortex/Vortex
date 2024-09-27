@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">gyurim-myBookWishlist</string>
+    <string name="book_title">Book title</string>
+    <string name="author_name">author name</string>
+    <string name="genre">Genre</string>
+    <string name="publication_year">2000</string>
+    <string name="read_status">Read Status</string>
+    <string name="todo">TODO</string>
+    <string name="book_content">Book</string>
+    <string name="author_content">author_content</string>
+    <string name="genre_content">genre_content</string>
+    <string name="publication_year_content">publication_year_content</string>
+    <string name="status_read_content">status_read_content</string>
+    <string name="read_status_text">Read</string>
+</resources>
