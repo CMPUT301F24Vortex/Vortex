@@ -5,7 +5,7 @@ public abstract class Shape {
     protected int x;
     protected int y;
     
-    String color = "blue";
+    String color = "purple";
     
     // Constructor to initialize x and y
     public Shape() {
